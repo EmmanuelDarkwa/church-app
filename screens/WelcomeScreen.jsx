@@ -18,7 +18,7 @@ const WelcomePage = ({ navigation }) => {
       }}>
       <Button 
             title="Get Started" 
-            onPress={() => navigation.navigate('Church')} 
+            onPress={() => navigation.navigate('Home')} 
             color="#272829"
           />
       </View>
